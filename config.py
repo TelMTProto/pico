@@ -23,7 +23,7 @@ MODES = {
 TLS_DOMAIN = "www.irancell.io"
 
 # Tag for advertising, obtainable from @MTProxybot
-AD_TAG = "cdbd3e12bc2ef22bb100638c0614e2ac"
+AD_TAG = "d3f517b9c1302d206e3452b98acf2093"
 
 #7gAAAAAAAAAAAAAAAAAAAAB3d3cuaXJhbmNlbGwuaW8
 #curl -o MTProo.sh -L https://git.io/fjo3u && bash MTProo.sh --port 443 --secret 00000000000000000000000000000000 --tag 8bd7c59cd625d7991b86a77dfbc5fcff --tls www.HideProxi.io --disable-updater
